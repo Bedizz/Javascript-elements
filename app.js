@@ -43,3 +43,6 @@ const notify = (name) => {
   
   // Function 2
   setTimeout(() => {console.log("1000ms == 1 second");}, 1000);
+
+
+  
